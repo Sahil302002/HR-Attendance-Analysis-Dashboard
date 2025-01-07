@@ -3,7 +3,7 @@
 
 The project focuses on analyzing employee attendance data, with a key focus on work-from-home preferences, attendance patterns, and sick leave trends to provide actionable insights. The goal is to help the HR and management team better understand employee behavior, optimize workforce planning, and improve workplace policies. The analysis aims to deliver insights on the working preferences of employees (work-from-home vs. office), sick leave patterns, and how attendance patterns may align with specific events or external factors, like the flu season or company events (e.g., cricket matches).
 
-### **Tasks to do**
+### **Tasks to Done**
 
 1. **Data Collection:**
     - Gather the employee attendance data for the current fiscal year (April to March).
@@ -107,9 +107,7 @@ Dataset used in this project <a href = "Attendance Sheet 2022-2023_Masked.xlsx">
 - Handling complex conditions (e.g., partial workdays).
 - Visualization techniques for improved data interpretation.
 
-4o mini
-
-HR Attendance Analysis Dashboard file
+HR Attendance Analysis Dashboard file <a href ="HR_Attendance_Analytics_Dashboard.pbix">HR Attendance Analysis Dashboard file</a>
 
 ## Explanation of the Dashboard
 
