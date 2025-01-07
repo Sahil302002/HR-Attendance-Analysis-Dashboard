@@ -109,6 +109,9 @@ Dataset used in this project <a href = "Attendance Sheet 2022-2023_Masked.xlsx">
 
 HR Attendance Analysis Dashboard file <a href ="HR_Attendance_Analytics_Dashboard.pbix">HR Attendance Analysis Dashboard file</a>
 
+![HR Attendance Analytic Dashboard](https://github.com/user-attachments/assets/e65bd983-622e-4fdb-b895-b47c44d07153)
+
+
 ## Explanation of the Dashboard
 
 This is an **HR Attendance Analysis Dashboard** used to track and analyze employee attendance metrics over a specific period (April 2022 - June 2022). It provides insights into:
